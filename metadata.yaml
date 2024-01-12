@@ -1,0 +1,40 @@
+_repo: The-truth-about-Ireland-b-or-Through-the-Emerald-Isle-with-an-aeroplane_72418
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bryan, William Jennings
+    birthdate: 1860
+    deathdate: 1925
+    gutenberg_agent_id: '3381'
+    url: http://www.gutenberg.org/2009/agents/3381
+    wikipedia: https://en.wikipedia.org/wiki/William_Jennings_Bryan
+creator:
+  author:
+    agent_name: Corkey, Alexander
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '56678'
+    url: http://www.gutenberg.org/2009/agents/56678
+description: ''
+gutenberg_issued: '2023-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72418'
+  lccn: '10008190'
+language: en
+pgterms:marc904: https://archive.org/details/truthaboutirelan01cork
+pgterms:marc905: 20230920214846corkey
+pgterms:marc906: '1910'
+pgterms:marc907: gb
+production_note: Fiona Holmes and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive.
+publication_note: '  $aLondon :$bRichard J James, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Description and travel'
+- !lcc 'DA'
+- GITenberg
+title: 'The truth about Ireland : $b or, Through the Emerald Isle with an aeroplane'
+url: http://www.gutenberg.org/ebooks/72418
