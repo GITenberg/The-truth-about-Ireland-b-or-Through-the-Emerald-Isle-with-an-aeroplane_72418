@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '3381'
     url: http://www.gutenberg.org/2009/agents/3381
     wikipedia: https://en.wikipedia.org/wiki/William_Jennings_Bryan
+covers:
+- cover_type: archival
+  image_path: 72418-h/images/cover.jpg
 creator:
   author:
     agent_name: Corkey, Alexander
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '56678'
     url: http://www.gutenberg.org/2009/agents/56678
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72418#The-truth-about-Ireland-b-or-Through-the-Emerald-Isle-with-an-aeroplane
 gutenberg_issued: '2023-12-15'
 gutenberg_type: Text
 identifiers:
